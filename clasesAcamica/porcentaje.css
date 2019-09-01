@@ -1,0 +1,18 @@
+body {
+    font-size: 16px;
+}
+h1 {
+    font-size: 200%;
+}
+h2 {    
+    font-size: 50%;
+}
+
+ul {
+    width: 100%;
+}
+li {
+    background-color: blue;
+    width: 50%;
+    margin-right: 50%;
+}
